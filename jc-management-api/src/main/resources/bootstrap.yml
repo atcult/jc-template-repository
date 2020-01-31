@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: jc-management-api
+server:
+  port: 9090
+
+management:
+  security:
+    enabled: false
